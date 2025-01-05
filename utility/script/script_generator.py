@@ -37,6 +37,8 @@ def generate_script(topic):
 
         Stictly output the script in a JSON format like below, and only provide a parsable JSON object with the key 'script'.
 
+        And Always keep in mind that you have to give script in Hindi language not in English.
+
         # Output
         {"script": "Here is the script ..."}
         """
